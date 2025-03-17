@@ -1,2 +1,1 @@
-vless://f346c4d1-7cbe-4478-a59d-ec58ecc82229@151.101.129.91:443?mode=auto&path=%2F&security=tls&alpn=h3&encryption=none&host=Berdishka.global.ssl.fastly.net&fp=chrome&type=xhttp&sni=Berdishka.global.ssl.fastly.net#%28Fastly-Vless%29
-vmess://eyJhZGQiOiI0NS44NC4yMjUuMTk4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjAxYzY0YjBmLTQxNzItNGI1NC04NGNkLTkxZjA2NTAzNGI0YiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTgwMDQiLCJwcyI6IihWbWVzcy10Y3ApIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZWJhS0ZqY2hLbW12cnB1@172.187.117.215:443#Shadow
